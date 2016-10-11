@@ -1,5 +1,5 @@
 FROM php:7.0.8-fpm
-MAINTAINER Mark Shust <mark.shust@mageinferno.com>
+MAINTAINER Eduardo Garcia <eduardo.gb.isc@gmail.com>
 
 RUN apt-get update \
   && apt-get install -y \
